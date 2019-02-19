@@ -5,4 +5,4 @@ Feel free to open a PR with your favourite recruiter
 
 ## United Kingdom
 * [Rebel Recruiters](https://rebelrecruiters.co.uk/) - Nottingham based
-* [Cordius] (https://www.cordius.co.uk/) - Derby based
+* [Cordius](https://www.cordius.co.uk/) - Derby based
